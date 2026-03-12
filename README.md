@@ -10,5 +10,5 @@ microwork that is required to get the jobs done around here.
 The library assistant will handle workflows and everyday tasks, making use of itself by
 running its own reflections after each day is out.
 
-The library assistant exists to serve the librarian in his duty and the library and its 
+The library assistant exists to serve the librarian in its duty and the library and its 
 users as a unit.
